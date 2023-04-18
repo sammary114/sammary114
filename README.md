@@ -6,7 +6,7 @@
 
 😄 Pronouns: Sammary114
 
-⚡ Fun fact: Gamg, Program, Anime
+⚡ Fun fact: Game, Program, Anime
 <!--
 **zlh953662526/zlh953662526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
