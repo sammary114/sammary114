@@ -4,6 +4,10 @@
 
 🌱 I’m currently learning "How to fucking this life?"
 
+  - Frontend: Vue.js
+  - Backend: Java
+  - SQL: Mysql
+
 😄 Pronouns: Sammary114
 
 ⚡ Fun fact: Game, Program, Anime
