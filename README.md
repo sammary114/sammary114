@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning "How to fucking this life?"
 
-  - Frontend: Vue.js
-  - Backend: Java
-  - SQL: Mysql
+  - Frontend: Vue.js --> none
+  - Backend: Java --> none
+  - SQL: Mysql --> none
 
 😄 Pronouns: Sammary114
 
