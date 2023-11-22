@@ -35,3 +35,15 @@ Here are some ideas to get you started:
     -->
   </a>
 </p>
+
+## 💻 Working Environment
+
+## 📱 Devices in Use
+
+### Phone / Pad
+
+### Watch / Wearable / Band / Others
+
+### Router / WiFi
+
+### Computer / Demoboard
