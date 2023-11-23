@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 ## 🌱 Programming Languages
 
+![Null](https://img.shields.io/badge/Null-00adef)
+
 ## 💻 Working Environment
 
 ![Windows 11 Pro 22H2](https://img.shields.io/badge/Windows%2011%20Pro%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
