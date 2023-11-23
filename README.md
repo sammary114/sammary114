@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/zlh953662526" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=zlh953662526&show_icons=true&theme=radical" alt="zlh953662526's Stats" >
     <!-- &hide=issues
