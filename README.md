@@ -4,10 +4,6 @@
 
 🌱 I’m currently learning "How to fucking this life?"
 
-  - Frontend: Vue.js --> none
-  - Backend: Java --> none
-  - SQL: Mysql --> none
-
 😄 Pronouns: Sammary114
 
 ⚡ Fun fact: Game, Program, Anime
@@ -36,7 +32,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## 🌱 Programming Languages
+
 ## 💻 Working Environment
+
+![Windows 11 Pro 22H2](https://img.shields.io/badge/Windows%2011%20Pro%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
