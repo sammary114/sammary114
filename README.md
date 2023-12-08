@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ### Phone / Pad
 
-![Samsung Galaxy Z Fold 4](https://img.shields.io/badge/Windows%2011%20Pro%2022H2-00adef?style=flat-square&logo=samsung&logoColor=ffffff)
+![Samsung Galaxy Z Fold 4](https://img.shields.io/badge/Samsung%20Galaxy%20Z%20Fold%204-00adef?style=flat-square&logo=samsung&logoColor=ffffff)
 
 ### Watch / Wearable / Band / Others
 
-![Samsung Galaxy Buds A20D]()
+![Samsung Galaxy Buds A20D](https://img.shields.io/badge/Samsung%20Galaxy%20Buds%20A20D-00adef?style=flat-square&logo=samsung&logoColor=ffffff)
 
 ### Router / WiFi
 
