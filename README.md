@@ -44,7 +44,11 @@ Here are some ideas to get you started:
 
 ### Phone / Pad
 
+![Samsung Galaxy Z Fold 4](https://img.shields.io/badge/Windows%2011%20Pro%2022H2-00adef?style=flat-square&logo=samsung&logoColor=ffffff)
+
 ### Watch / Wearable / Band / Others
+
+![Samsung Galaxy Buds A20D]()
 
 ### Router / WiFi
 
