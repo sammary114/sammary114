@@ -1,12 +1,3 @@
-### Hi there 👋
-
-🔭 I’m currently working on escaping the world.
-
-🌱 I’m currently learning "How to fucking this life?"
-
-😄 Pronouns: Sammary114
-
-⚡ Fun fact: Game, Program, Anime
 <!--
 **zlh953662526/zlh953662526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
