@@ -1,72 +1,39 @@
-<!--
-**sammary114/sammary114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Hi 👋! My name is sammary114 and I'm a ..., from ....</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sammary114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammary114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left">
-  <a href="https://github.com/sammary114" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=sammary114&show_icons=true&theme=radical" alt="sammary114's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=sammary114&hide=issues&title_color=333&text_color=777" alt="sammary114's Stats" >
-    -->
-  </a>
-</p>
+###
 
-<details>
-  <summary>Languages & Database</summary>
-ㅤ
-  
-![Java](https://img.shields.io/badge/java-%23f89b24.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23f0dc55.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+###
 
-</details>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<details>
-  <summary>Softwares & Services</summary>
-ㅤ
-ㅤ
-  
-![Adobe](https://img.shields.io/badge/adobe-%23fa1408.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Affinity](https://img.shields.io/badge/Affinity-222324.svg?style=for-the-badge&logo=Affinity&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23f25425.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-605949?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Sketch](https://img.shields.io/badge/Sketch-fdb008?style=for-the-badge&logo=sketch&logoColor=black)
+###
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83) ![Neovim](https://img.shields.io/badge/NeoVim-%234e8b3a.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-097dcd.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br clear="both">
 
-![CMake](https://img.shields.io/badge/CMake-%23086c6b.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/GIT-f05539?style=for-the-badge&logo=git&logoColor=white
-) ![MD](https://img.shields.io/badge/material%20design-6c55a7?style=for-the-badge&logo=material%20design&logoColor=white) ![Ant-Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white)
+<img src="https://raw.githubusercontent.com/sammary114/sammary114/output/snake.svg" alt="Snake animation" />
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234889f4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-714eff?style=for-the-badge&logo=microsoft%20onedrive&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%23161b22.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</details>
-
-<details>
-  <summary>Systems</summary>
-ㅤ
-  
-![Android](https://img.shields.io/badge/Android-3aab58?style=for-the-badge&logo=android&logoColor=white) 
-
-![Windows](https://img.shields.io/badge/Windows-087cd5?style=for-the-badge&logo=windows&logoColor=white)
-
-</details>
-
-<details>
-  <summary>Hardwares</summary>
-ㅤ
-
-![DELL](https://img.shields.io/badge/dell%20Inspiron_15_plus-0096d5?style=for-the-badge&logo=dell&logoColor=white)![INTEL](https://img.shields.io/badge/INTEL%20Core_11_11700H-0071c5?style=for-the-badge&logo=intel&logoColor=white)![Nvidia](https://img.shields.io/badge/NVIDIA%20RTX%203050ti-7bbb08?style=for-the-badge&logo=nvidia&logoColor=white)
-
-![Samsung](https://img.shields.io/badge/Samsung%20Z_Filp_5-%2314299f.svg?style=for-the-badge&logo=samsung&logoColor=white)
-
-</details>
+###
