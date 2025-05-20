@@ -26,7 +26,7 @@
 
 ###
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000167.6f1801f33e624f388f50a700c16a3369.0305)](https://music-profile.rayriffy.com)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000167.6f1801f33e624f388f50a700c16a3369.0305)](https://music-profile.rayriffy.com)
 
 ###
 
