@@ -26,6 +26,10 @@
 
 ###
 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000167.6f1801f33e624f388f50a700c16a3369.0305)](https://music-profile.rayriffy.com)
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sammary114/sammary114/output/snake.svg" alt="Snake animation" />
